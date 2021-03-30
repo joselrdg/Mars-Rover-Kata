@@ -31,16 +31,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-This is a game created to give a personal touch to a kata proposed for admission to the IronHack web development bootcamp.
-It is completely written in JavaScript and I am very proud of the result since it was my first contact with the development world and the first time I wrote a line of code.
-It was developed on the codepen website and is played through the terminal.
+This is a game created to give a personal touch to a kata proposed for admission to the IronHack web development bootcamp.<br>
+It is completely written in JavaScript and I am very proud of the result since it was my first contact with the development world and the first time I wrote a line of code.<br>
+It was developed on the codepen website and is played through the terminal.<br>
 The game tries to drive a vehicle located on Mars, by sending commands that are translated into movement orders. You have to dodge obstacles until you reach the marked objective.
 They can play one or two players and there is an adventure mode in which they will increase the size of the maps and the difficulty. In two-player mode, the one with the most points will win before either of the two players collides with an obstacle. There is also a free mode in which the rover can move as many times as desired until it reaches the objective or collides with an obstacle. .
 
-[P] ----> Player
-[X] ----> Obtacle
-[O] ----> Objective
-[*] ----> Coin
+
+***̣________________***<br><br>
+[P]----> Player <br>
+[X] ----> Obtacle<br>
+[O] ----> Objective<br>
+[*] ----> Coin<br>
+
+<br />
+
 
 
 ![ScreenShot](screenshots/marsjl.png)
